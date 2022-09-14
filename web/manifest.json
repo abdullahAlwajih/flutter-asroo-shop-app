@@ -1,6 +1,6 @@
 {
-    "name": "udemy_shop_app",
-    "short_name": "udemy_shop_app",
+    "name": "flutter_asroo_shop_app",
+    "short_name": "flutter_asroo_shop_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
